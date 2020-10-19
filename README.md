@@ -7,7 +7,7 @@ https://weatherstack.com/product API for getting current weather information and
 
 2.Create a file config.js or .env to store your api key and later access it to your main app.js
 
-3. You can add a backend server like too to run this application with some other features added. 
+3.You can add a backend server like too to run this application with some other features added. 
 ## Areas of improvement/Limitation to current application
 1. Style of this website can be improved to a great extend as I have written very less CSS in this application.
 2. As mentioned earlier India is not mentioned properly in Country list API, It gives some irrelevent data while searching India in the searchbox.
