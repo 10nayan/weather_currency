@@ -5,7 +5,7 @@ https://weatherstack.com/product API for getting current weather information and
 ### Clone/Modify application
 1.Create an account in openweather and fixer.io and get your API key.
 
-2.Create a file config.js or .env to store your api key and later access it to your main app.js
+2.Create a file  .env or use environ varriable to store your api key and later access it to your main app.js(use config.js file only to run locally, not for deployment).
 
 3.You can add a backend server like too to run this application with some other features added. 
 ## Areas of improvement/Limitation to current application
