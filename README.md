@@ -1,6 +1,7 @@
 # weather_currency
 This front end side web application consist of index.html, app.js , config.js(ignored by git ignore) file. Three API used for this application, https://restcountries.eu/ for getting all the list of countries( though India is listed as British India till now), then we used 
 https://weatherstack.com/product API for getting current weather information and https://reqbin.com/lib/fixer/nn1vh8zr/latest-foreign-exchange-rates-via-rest-api for getting currency exchange rate by API call and show the results over the main page of our application.
+You can visit this application here, https://personal-account-tracker.herokuapp.com/weather
 ## Usage
 ### Clone/Modify application
 1.Create an account in openweather and fixer.io and get your API key.
